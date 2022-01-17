@@ -9,5 +9,5 @@ We created a webstie for users to interact with Dana's UFO data. There are 5 fil
 And There are also a consise comment for each filterd data.
 
 ## Summary
-The website is concise,intuitive and user friendly. User can enter the information on filter search to search relevant UFO results. For example, if the user wants to search all the UFO sightnigs on 1/10/2010 and  in the US. The table on the website will automatically filters the matched information and update on the table. As you can see in the image below.
+The website is concise,intuitive and user friendly. User can enter the information on filter search to search relevant UFO results. For example, if the user wants to search all the UFO sightnigs on 1/10/2010 and  in the US. The table on the website will automatically filter the matched information in the database and update it on the table. As you can see in the image below.
 ![Capture232](https://user-images.githubusercontent.com/92561493/149688701-1b5bd9bc-dc72-4c78-ac10-4439aefeecbe.PNG)

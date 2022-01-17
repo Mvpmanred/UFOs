@@ -7,3 +7,7 @@ The purpose of this project is to help Dana to build a table using data stored i
 We created a webstie for users to interact with Dana's UFO data. There are 5 filter serach catagories: Date, City, State, Country and Shape.
 ![Capture232](https://user-images.githubusercontent.com/92561493/149688369-16a95b2b-1093-415c-8be4-d192efdfadaa.PNG)
 And There are also a consise comment for each filterd data.
+
+## Summary
+The website is concise,intuitive and users friendly. User can enter the information on filter search to search relevant UFO results.
+![Capture232](https://user-images.githubusercontent.com/92561493/149688701-1b5bd9bc-dc72-4c78-ac10-4439aefeecbe.PNG)
